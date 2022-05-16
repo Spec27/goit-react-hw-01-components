@@ -1,6 +1,6 @@
 .profile {
     background-color: #fff;
-    width: auto;
+    width: 390px;
     margin: 0px auto;
     margin-bottom: 120px;
     border-radius: 10px;
@@ -16,10 +16,12 @@
   }
   
   .avatar {
-    width: 100px;
+    width: 102px;
     height: 100px;
     padding: 5px;
     border-radius: 50%;
+    border:groove  #807e7e ;
+    border-width: 10px;
   }
   
   .name {
